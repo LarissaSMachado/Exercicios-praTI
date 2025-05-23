@@ -38,6 +38,7 @@ As atividades abordam os conceitos fundamentais de programação com JavaScript,
 -Crie um programa que calcula o fatorial de um número fornecido pelo usuário utilizando um loop for ou while.
 
 -Escreva um programa que gera e imprime os primeiros 10 números da sequência de Fibonacci utilizando um loop for.
+
 ---
 ## 🧠 Sobre os exercícios
 
